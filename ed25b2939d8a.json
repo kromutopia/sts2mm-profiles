@@ -1,0 +1,200 @@
+{
+  "name": "sts2kro",
+  "game_version": null,
+  "created_by": "kromutopia",
+  "mods": [
+    {
+      "name": "Acheron",
+      "version": "v0.4.4",
+      "source": null,
+      "hash": "5893f014570c6c739622c7d97ab78d9c618e58d612a4a05571fc82931089167e",
+      "files": [
+        "Acheron\\Acheron.dll",
+        "Acheron\\Acheron.json",
+        "Acheron\\Acheron.pck"
+      ],
+      "folder_name": "Acheron",
+      "mod_id": "Acheron",
+      "enabled": true,
+      "bundle_url": "https://github.com/kromutopia/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.4_f4841f42.zip",
+      "bundle_sha256": "f4841f42b101b672d49ea0dfd79aa6cb6f092d4f704619a3bcee55bccf133ca8"
+    },
+    {
+      "name": "Acts From The Past",
+      "version": "0.12.0",
+      "source": null,
+      "hash": "472c4418679eb7a830418763c15063e65436925dae2e393539c140ec8e6984d2",
+      "files": [
+        "ActsFromThePast\\ActsFromThePast.dll",
+        "ActsFromThePast\\ActsFromThePast.json",
+        "ActsFromThePast\\ActsFromThePast.pck"
+      ],
+      "folder_name": "ActsFromThePast",
+      "mod_id": "ActsFromThePast",
+      "enabled": true,
+      "bundle_url": "https://github.com/kromutopia/sts2mm-profiles/releases/download/bundles/Acts_From_The_Past_v0.12.0_20bcdc6c.zip",
+      "bundle_sha256": "20bcdc6ce051cfd9fd152c4e78f5fc23cf880b1e2bcc4c43cf0360ee1fea5357"
+    },
+    {
+      "name": "Ascender's Sandbox",
+      "version": "v1.1.1",
+      "source": null,
+      "hash": "7f06fd24bbc4259b94e3fa2d0ed041f4fa984cae06d5394d99fa1274d380f75d",
+      "files": [
+        "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855\\Ascenders Sandbox.dll",
+        "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855\\Ascenders Sandbox.json",
+        "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855\\lang\\de.json",
+        "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855\\lang\\en.json",
+        "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855\\lang\\es-419.json",
+        "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855\\lang\\es.json",
+        "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855\\lang\\fr.json",
+        "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855\\lang\\it.json",
+        "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855\\lang\\ja.json",
+        "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855\\lang\\ko.json",
+        "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855\\lang\\pl.json",
+        "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855\\lang\\pt-BR.json",
+        "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855\\lang\\ru.json",
+        "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855\\lang\\th.json",
+        "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855\\lang\\tr.json",
+        "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855\\lang\\zh.json"
+      ],
+      "folder_name": "Ascender's Sandbox - 1.1.1-60-v1-1-1-1777814855",
+      "mod_id": "Ascenders Sandbox",
+      "enabled": true,
+      "bundle_url": "https://github.com/kromutopia/sts2mm-profiles/releases/download/bundles/Ascender.s_Sandbox_v1.1.1_a4b5338a.zip",
+      "bundle_sha256": "a4b5338a6fde06ebcf5a58dfafe4cdae016e3fe32578d96a20f08b4637f86b9a"
+    },
+    {
+      "name": "BaseLib",
+      "version": "v3.2.0",
+      "source": null,
+      "hash": "cb6b2eccea2fab44ecebd6346fc6d6448537197bcda863b71ac040cb86484e8a",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/kromutopia/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.0_4367a024.zip",
+      "bundle_sha256": "4367a0244022947f24ad37601e3666eb020bff665787715eb91a8e04bcb3c868"
+    },
+    {
+      "name": "Dev Console Enabler",
+      "version": "v1.0,0",
+      "source": null,
+      "hash": "505d3f78511120addfabeccb41d2dfab55a9e0ce66706ad5b294426c27e099b6",
+      "files": [
+        "devconsoleenabler.json"
+      ],
+      "folder_name": "devconsoleenabler",
+      "mod_id": "DevConsoleEnabler",
+      "enabled": true,
+      "bundle_url": "https://github.com/kromutopia/sts2mm-profiles/releases/download/bundles/Dev_Console_Enabler_v1.0.0_d8922566.zip",
+      "bundle_sha256": "d8922566ce633d825364c3469613ed5764b89a952372b74f2e97e9d8ab2fa921"
+    },
+    {
+      "name": "End Run Graph",
+      "version": "0.2.0",
+      "source": null,
+      "hash": "1b3a9d6d7bc02141a941a85ad289fd261d9e852166a6dc263b752c078a6c8aa0",
+      "files": [
+        "EndRunGraph-v0.2.0-Beta-STS2-v0.106.1\\EndRunGraph.dll",
+        "EndRunGraph-v0.2.0-Beta-STS2-v0.106.1\\mod_manifest.json"
+      ],
+      "folder_name": "EndRunGraph-v0.2.0-Beta-STS2-v0.106.1",
+      "mod_id": "EndRunGraph",
+      "enabled": true,
+      "bundle_url": "https://github.com/kromutopia/sts2mm-profiles/releases/download/bundles/End_Run_Graph_v0.2.0_61a1c2f5.zip",
+      "bundle_sha256": "61a1c2f5dc997f9381265d569ee55c08b57b3b53c725d6946076eecd3f6a7010"
+    },
+    {
+      "name": "Faust",
+      "version": "0.1.7.beta",
+      "source": null,
+      "hash": "7f13f57d961f63d71cfff46eb8a5f64c22b7ab27ed2ebd5bc0260512f38be7c1",
+      "files": [
+        "Faust\\Faust.dll",
+        "Faust\\Faust.json",
+        "Faust\\Faust.pck"
+      ],
+      "folder_name": "Faust",
+      "mod_id": "Faust",
+      "enabled": true,
+      "bundle_url": "https://github.com/kromutopia/sts2mm-profiles/releases/download/bundles/Faust_v0.1.7.beta_c4812702.zip",
+      "bundle_sha256": "c48127022b779fd642ba1edbf34167733bc5244b9c8ffba3e0dd7ec6abe32f1a"
+    },
+    {
+      "name": "Kafka",
+      "version": "v0.12.2",
+      "source": null,
+      "hash": "3fe3981e68f9acc3066e46f0ca9885713f1a85a9347c2365fe3a40361e8194ac",
+      "files": [
+        "Kafka\\Kafka.dll",
+        "Kafka\\Kafka.json",
+        "Kafka\\Kafka.pck"
+      ],
+      "folder_name": "Kafka",
+      "mod_id": "Kafka",
+      "enabled": true,
+      "bundle_url": "https://github.com/kromutopia/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.2_4fbaa2dd.zip",
+      "bundle_sha256": "4fbaa2dd393223135b062fd138e656e7d202e768eac6bec0be0c4e8e235e6e3e"
+    },
+    {
+      "name": "RitsuLib",
+      "version": "0.4.13",
+      "source": null,
+      "hash": "29236c8dc3beb2d175bc776b74ac8042a98eb02e3a37c08131aca6a98c7d9b39",
+      "files": [
+        "STS2-RitsuLib\\compat-target.txt",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\viewer\\assets\\index.css",
+        "STS2-RitsuLib\\viewer\\assets\\index.js",
+        "STS2-RitsuLib\\viewer\\index.html"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/kromutopia/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.13_27dbf39f.zip",
+      "bundle_sha256": "27dbf39f7759415751884b0cb2a8f9cc09f504a5827dabecf600593fb3f8b8c1"
+    },
+    {
+      "name": "Soul Link",
+      "version": "0.33.0-beta",
+      "source": "github:doomy64/Sts2-SoulLink",
+      "hash": "7541afeb7a683f8848055061429b5d2652032ea34c964676f1f0a1e66dda4295",
+      "files": [
+        "SoulLink.dll",
+        "SoulLink.json"
+      ],
+      "folder_name": "SoulLink",
+      "mod_id": "SoulLink",
+      "enabled": true,
+      "bundle_url": "https://github.com/kromutopia/sts2mm-profiles/releases/download/bundles/Soul_Link_v0.33.0-beta_2e1fcf87.zip",
+      "bundle_sha256": "2e1fcf879d3c0a468b6dedc692df2c77459a537f76f3d1e15a2b235b389272ea"
+    },
+    {
+      "name": "Tressa Silent Skin",
+      "version": "v0.2.1",
+      "source": "nexus:slaythespire2/mods/1052",
+      "hash": "7f315151b32010879597c2685bbbebcced583fecfaeb6ef91d6e0224befe21ca",
+      "files": [
+        "TressaSilentSkin\\TressaSilentSkin.dll",
+        "TressaSilentSkin\\TressaSilentSkin.json",
+        "TressaSilentSkin\\TressaSilentSkin.pck"
+      ],
+      "folder_name": "TressaSilentSkin",
+      "mod_id": "TressaSilentSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/kromutopia/sts2mm-profiles/releases/download/bundles/Tressa_Silent_Skin_v0.2.1_e733b2f2.zip",
+      "bundle_sha256": "e733b2f2349acd1136bd0d57a0ff5b35036227497b0da8d8e670ed5a7c3ab827"
+    }
+  ],
+  "created_at": "2026-06-08T00:48:50.814559300Z",
+  "updated_at": "2026-06-08T00:48:50.969895800Z",
+  "public": false
+}
